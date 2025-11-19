@@ -3,12 +3,10 @@
 3.	Open the solution and compile the project (Build > Build Solution).
 4.	Put the images you want processed into the src folder
 5.	Run OneOCRConsole.exe from bin\Debug\net10.0-windows.
-   <img width="1006" height="209" alt="image" src="https://github.com/user-attachments/assets/1c955003-7cc5-438e-9959-3d7b72a382d8" />
-7.	Find the OCR output files in the dest folder.
-
+<img width="1006" height="209" alt="image" src="https://github.com/user-attachments/assets/1c955003-7cc5-438e-9959-3d7b72a382d8" />
+6.	Find the OCR output files in the dest folder.
 
 Image to process <img width="1880" height="891" alt="1" src="https://github.com/user-attachments/assets/a9dec3b4-662e-4635-a4bc-739cf990a29a" />
-
 
 Processed image:
 ```
